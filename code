@@ -3,3 +3,8 @@ main(){
 printf("hello world");
 printf("hello");
 }
+#include<stdio.h>
+main(){
+printf("hello world");
+printf("hello");
+}
